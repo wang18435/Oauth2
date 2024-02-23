@@ -1,0 +1,10 @@
+server:
+  port: 8111
+spring:
+  security:
+    oauth2:
+      client:
+        registration:
+          github:
+            client-id: fa11ffe47a2df4548eb0
+            client-secret: dd4d9b4c38b1a032a79f8e12e3e017b46dc94c1b
